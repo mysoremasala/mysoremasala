@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishrb2" target="blank"><img src="https://img.shields.io/twitter/follow/krishrb2?logo=twitter&style=for-the-badge" alt="krishrb2" /></a> </p>
 
-- 🌱 I’m currently learning **python and java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **krishvinod1024@gmail.com**
 
